@@ -37,7 +37,14 @@ class PlayManual:
                     run = False
                     pygame.quit()
                     quit()                                                              
-
+            if bird.y > 700:
+                while True:
+                    col.aiCollided(score)
+                    for event in pygame.event.get():
+                        if event.type == pygame.QUIT:
+                            run = False
+                            pygame.quit()
+                            quit()
             bird.move()
 
             base.move()
