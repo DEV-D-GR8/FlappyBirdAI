@@ -26,3 +26,6 @@ I learned a lot about the pygame module through this project.
 I learnt to deal with various errors that arise while working with pygame. 
 Apart from that I learnt about the working of the genetic algorithms and how they create an AI.
 
+# Future plans
+I will work on reducing the number of files used by grouping them in two major classes that will deal with Manual play and AI play.
+Moreover I would like to work on the UI of the game.
