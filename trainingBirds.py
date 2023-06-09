@@ -95,6 +95,6 @@ class BirdTraining:
 
             mw.drawWindow(window, birds, pipes, base, score, gen, pipeIndex)
 
-            if score > 50:
+            if score > 1000:
                 pickle.dump(neuralNetworks[0],open("winner.pkl", "wb"))
                 break
