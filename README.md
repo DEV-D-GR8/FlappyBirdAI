@@ -29,3 +29,6 @@ Apart from that I learnt about the working of the genetic algorithms and how the
 # Future plans
 I will work on reducing the number of files used by grouping them in two major classes that will deal with Manual play and AI play.
 Moreover I would like to work on the UI of the game.
+
+# Video Demonstration
+Watch this video to see the model being trained and then being implemented to drive the car:- https://youtu.be/xxg-3QwgJwA
