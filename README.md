@@ -31,4 +31,4 @@ I will work on reducing the number of files used by grouping them in two major c
 Moreover I would like to work on the UI of the game.
 
 # Video Demonstration
-Watch this video to see the model being trained and then being implemented to drive the car:- https://youtu.be/xxg-3QwgJwA
+Watch this video to see the model being trained and then being implemented to play the game:- https://youtu.be/xxg-3QwgJwA
